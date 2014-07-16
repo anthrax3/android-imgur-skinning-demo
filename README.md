@@ -5,6 +5,8 @@ A Play Newsstand-style app for browsing subreddit galleries on Imgur
 
 ![Alt demo](itch.gif)
 
+Created by [Mike Hayes](murkey) for CodePath presentation July 2014.
+
 Layout
 ------
 - Multiple infinite-scrolling ListViews in a swipeable ViewPager
