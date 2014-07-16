@@ -1,11 +1,13 @@
 itch-android
 ============
 
-A Play Newsstand-style app for browsing subreddit galleries on Imgur
+A Play Newsstand-style app for browsing subreddit galleries on Imgur.
 
 ![Alt demo](itch.gif)
 
-Created by [Mike Hayes](murkey) for CodePath presentation July 2014.
+Created by [Mike Hayes](murkey) for CodePath presentation July 2014. Excellent reference code for advanced use of a ViewPager with embedded lists, remote image loading and using drawables and styles!
+
+**Note:** This project was developed using Android Studio.
 
 Layout
 ------
